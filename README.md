@@ -1,4 +1,0 @@
-# study
-hello world
-
-hello 
